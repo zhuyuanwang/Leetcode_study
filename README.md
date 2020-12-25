@@ -24,7 +24,7 @@ def kidsWithCandies(self, candies, extraCandies):
 
 时间：2020年12月25日15:45:22
 
-#### 118. 拥有最多糖果的孩子
+#### 118. 杨辉三角
 
 原题链接：https://leetcode-cn.com/problems/pascals-triangle/
 
